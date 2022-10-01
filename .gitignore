@@ -16,7 +16,7 @@
 .prettierignore
 
 # Design folder 
-design
+
 
 # avoid readme.md
 README-template.md
